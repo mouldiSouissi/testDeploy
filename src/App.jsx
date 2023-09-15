@@ -10,7 +10,7 @@ function App() {
     <>
       <div>
         <div className="card">
-          <h1>Hello github</h1>
+          <h1>Hello github actions</h1>
         </div>
       </div>
     </>
